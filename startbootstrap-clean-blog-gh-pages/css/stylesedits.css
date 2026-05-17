@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: aliceblue;
+    }
+
+h4 {
+    color: azure;
+    }
+
+.bold {font-weight: bold;}
+.justify {text-align: justify;}
+.homebg {
+    background-image: url('../images/Family.PNG');
+}
+
+li {font-weight: normal;}
+
+a {color: antiquewhite;}
